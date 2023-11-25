@@ -1,0 +1,6 @@
+1). Matematica 6 Stiinta Pop_Alin_Radu_Bujor
+2). Fizica 3 Stiinta Negrea
+3). Educatie_Fizica_si_Sport 1 Sport Masca_Daniel
+4). Engleza 2 Limba Masca_Daniel
+5). Limba_si_Literatura_Romana 3 Limba Otoiu_Carmen
+6). Informatica 5 Informatica Popescu_Carmen

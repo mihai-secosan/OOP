@@ -1,0 +1,21 @@
+[2023-06-07 14:32:51] [info] Start Program:
+Path:"C:\Users\secos\OneDrive\Desktop\Facultate\Semestru 2\OOP\Lab13-14\ContractDeStudiiQtEdition\x64\Debug\ContractDeStudiiQtEdition.exe"
+Arguments:
+Working directory: "C:\Users\secos\OneDrive\Desktop\Facultate\Semestru 2\OOP\Lab13-14\ContractDeStudiiQtEdition"
+Modules: Selected: C:\Users\secos\OneDrive\Desktop\Facultate\Semestru 2\OOP\Lab13-14\ContractDeStudiiQtEdition\x64\Debug\ContractDeStudiiQtEdition.exe Excluded: 
+Sources: Selected: C:\Users\secos\OneDrive\Desktop\Facultate\Semestru 2\OOP\Lab13-14\ContractDeStudiiQtEdition Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\secos\AppData\Local\Temp\zasiszko.aj5 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2023-06-07 14:32:51] [info] Module: C:\Users\secos\OneDrive\Desktop\Facultate\Semestru 2\OOP\Lab13-14\ContractDeStudiiQtEdition\x64\Debug\ContractDeStudiiQtEdition.exe is selected because it matches selected pattern: C:\Users\secos\OneDrive\Desktop\Facultate\Semestru 2\OOP\Lab13-14\ContractDeStudiiQtEdition\x64\Debug\ContractDeStudiiQtEdition.exe
+[2023-06-07 14:32:55] [info] ----------------------------------------------------
+[2023-06-07 14:32:55] [info] Coverage binary generated in file: C:\Users\secos\AppData\Local\Temp\zasiszko.aj5
+[2023-06-07 14:32:55] [info] ----------------------------------------------------
